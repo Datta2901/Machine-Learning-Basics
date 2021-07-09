@@ -1,1 +1,1 @@
-### This directory contains Machine Learning practice 
+### This directory contains Machine Learning basic concepts  
