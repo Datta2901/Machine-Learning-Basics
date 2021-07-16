@@ -5,9 +5,12 @@
 * Numpy
 * Pandas
 * Matplotlib
+* Linear Regression
+* Logistic Regression
 
 ### sklearn datasets
 > Type : Classifications
 * Digits_DataSet
 * Iris_DataSet
 * Wine_DataSet
+
